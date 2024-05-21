@@ -1,4 +1,4 @@
-This is the multichain escorw system.
+This is the multichain escrow system.
 
 ERC-792: Arbitration Standard proposes a standard for arbitration on Ethereum. The standard has two types of smart contracts: Arbitrable and Arbitrator.
 
